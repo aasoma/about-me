@@ -1,6 +1,6 @@
 // Create sanity check below
 
-
+console.log("Hello Faggot");
 
 // console.log each variable
 // follow example below (remove "//" to uncomment)
@@ -8,15 +8,27 @@
 // var school = "Hawaii Tech Academy";
 // console.log(school); <== this should print "Hawaii Tech Academy" in your browser
 
+var school = "Hawaii Tech Academy"
 
 // # 1
 // Variables with a "String" value
 // Declare the following variables name:
-// firstName
-// lastName
+var firstName = "Aaron"
+console.log(firstName);
+
+var lastName = "Soma"
+console.log(lastName);
+
 // birthPlace
+var birthPlace = "Oahu, Hawaii"
+console.log(birthPlace);
 // favFood
+var favFood = "Fried Rice"
+console.log(favFood);
+
 // favDrink
+var favDrink = "Water"
+console.log(favDrink);
 // favSong
 // favAnimal
 // favColor
