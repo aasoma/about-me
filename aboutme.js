@@ -1,6 +1,6 @@
 // Create sanity check below
 
-console.log("Hello Faggot");
+console.log("Wassup My Diggity Dog");
 
 // console.log each variable
 // follow example below (remove "//" to uncomment)
