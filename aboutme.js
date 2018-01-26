@@ -29,12 +29,24 @@ console.log(favFood);
 // favDrink
 var favDrink = "Water"
 console.log(favDrink);
-// favSong
-// favAnimal
-// favColor
-// favSport
-// favDoughnut
 
+// favSong
+var favSong = "Cooking By The Book Ft. Lil Jon"
+console.log(favSong);
+
+// favAnimal
+var favAnimal = "Snake"
+console.log(favAnimal);
+
+// favColor
+var favColor = "Green"
+console.log(favColor);
+// favSport
+var favSport = "Basketball"
+console.log(favSport);
+// favDoughnut
+var favDoughnut = "Glazed"
+console.log (favDoughnut);
 
 
 
@@ -43,12 +55,27 @@ console.log(favDrink);
 
 // #2
 // Variables with a Number value
+var number = 1
+console.log(number);
+
 // Declare the following variable names:
 // favNumber
+var favNumber = 13
+console.log(favNumber);
 // yourShoeSize
+var ShoeSize = 10.5
+console.log(ShoeSize);
+
 // numberOfPets
+var numberOfPets = 69
+console.log(numberOfPets);
 // numberOfSiblings
+var numberOfSiblings = 1
+console.log(numberOfSiblings);
+
 // numberOfStudentsInClass
+
+
 // numberOfDoorsInClassroom
 
 
